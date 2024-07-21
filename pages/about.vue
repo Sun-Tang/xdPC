@@ -5,8 +5,6 @@
   </div>
 </template>
 
-<script setup>
-import { navigateTo } from 'nuxt/dist/app/composables/router';
-</script>
+<script setup></script>
 
 <style lang="scss" scoped></style>
