@@ -1,7 +1,15 @@
 <template>
-  <div>111</div>
+  <div class="home">
+    首页
+    <Banner />
+    <BannerChild />
+  </div>
 </template>
 
 <script setup></script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+.home {
+  background-color: aqua;
+}
+</style>
